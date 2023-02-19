@@ -25,44 +25,41 @@ permalink: /activity/
 
 {:.note}
 
-## Profession
+## 職歴
 ----------------------------------------------------------------
-### Sep. 2022 -
-* AI Engineer, Collaborative Project at [Matsuo Institute Corporation]{:.heading.flip-title}
+### 2022年9月 - 現在
+* AIエンジニア, 共同研究プロジェクト at [株式会社松尾研究所]{:.heading.flip-title}
 
-### Oct. 2022 -
-* Teaching Assistant Leader, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} at [The University of Tokyo]{:.heading.flip-title}
+### 2022年10月 - 現在
+* Teaching Assistant リーダー, [東京大学グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} <!--at [東京大学松尾研究室]{:.heading.flip-title}-->
 
-### Apr. 2021 - Sep. 2022
-* Teaching Assistant, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} at [The University of Tokyo]{:.heading.flip-title}
+### 2021年4月 - 2022年9月
+* Teaching Assistant, [東京大学グローバル消費インテリジェンス寄附講座(GCI)]{:.heading.flip-title} <!--at [東京大学松尾研究室]{:.heading.flip-title} -->
 
-## Research & Presentation
+## 研究
 ----------------------------------------------------------------
-### Apr. 2022 - Sep. 2022
-* *"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"* <br>
+### 2022年4月 - 2022年9月
+* *"YNU三密回避ナビにおける人数推定モデルの検討"* <br>
 for [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title}
 
-### Sep. 2018 - Aug. 2019
-* *"Relationship between wing surface shape and lift-drag ratio"* <br>
+### 2018年9月 - 2019年8月
+* *"翼の表面形状と揚抗比の関係"* <br>
 for [SSH(Super Science High schools)]{:.heading.flip-title} class <br>
-Reiwa 1st year [SSH student research presentation]{:.heading.flip-title} in KOBE (Aug. 7th and 8th, 2019)
+令和元年度 [スーパーサイエンスハイスクール生徒研究発表会]{:.heading.flip-title} in 神戸 (2019年8月7日・8日)
 
-## Affiliation
+## 所属学会
 ----------------------------------------------------------------  
 
-## Activity
-----------------------------------------------------------------
 
+[株式会社松尾研究所]: https://matsuo-institute.com/
 
-[Matsuo Institute Corporation]: https://matsuo-institute.com/
+[東京大学グローバル消費インテリジェンス寄附講座(GCI)]: https://gci.t.u-tokyo.ac.jp/
 
-[Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/
-
-[The University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
+[東京大学]: https://www.u-tokyo.ac.jp/ja/index.html
 
 [ROUTE(Research Opportunities for UndergraduaTEs)]: http://es-route.ynu.ac.jp/
 
 [SSH(Super Science High schools)]: https://www.jst.go.jp/cpse/ssh/index.html
 
-[SSH student research presentation]: https://www.jst.go.jp/cpse/ssh/ssh/public/sshevent.html 
+[スーパーサイエンスハイスクール生徒研究発表会]: https://www.jst.go.jp/cpse/ssh/ssh/public/sshevent.html 
 

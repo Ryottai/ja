@@ -25,17 +25,16 @@ permalink: /skills/
 
 {:.note}
 
-## Qualification
+## 資格
 ----------------------------------------------------------------
-* Fundamental Information Technology Engineer Examination (FE), Information-technology Promotion Agency, Japan
+* 独立行政法人情報処理推進機構，基本情報技術者試験(FE)
 
-* Deep Learning for GENERAL 2022#3, Japan Deep Learning Association (JDLA)
+* 日本ディープラーニング協会(JDLA)，G検定2022#3
 
 * Fujitsu Certified Professional AI
 
-
-## Completion Course
+## 修了講座
 ----------------------------------------------------------------
-* The University of Tokyo, Mastuo Laboratory Deep Learning Basic Course 2022
+* 東京大学松尾研究室 2022年度 深層学習/Deep Learning基礎講座
 
-* The University of Tokyo, Chair for Global Consumer Intelligence (GCI) Winter 2020
+* 東京大学 グローバル消費インテリジェンス寄付講座(GCI) 2020 Winter

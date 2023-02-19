@@ -26,32 +26,33 @@ permalink: /awards/
 
 {:.note}
 
-## 2022
+## 2022年
 ----------------------------------------------------------------
-* Yokohama National University, Reiwa 3rd Year Autumn Semester Excellent Academic Performance Award
+* 横浜国立大学，令和4年度春学期，学業成績優秀表彰
 
-* Yokohama National University, Reiwa 4th Year Spring Semester Excellent Academic Performance Award
- 
-* Yokohama National University, College of Engineering Science, Mechanical Engineering Program, [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title} Excellent Research Presentation Award <br>
-*"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"*
+* 横浜国立大学理工学部・機械工学教育プログラム [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title} 優秀研究発表賞 <br>
+*"YNU三密回避ナビにおける人数推定モデルの検討"*
 
-## 2021
+* 横浜国立大学，令和3年度秋学期，学業成績優秀表彰
+
+
+## 2021年
 ----------------------------------------------------------------
-* Yokohama National University, Reiwa 3rd Year Spring Semester Excellent Academic Performance Award
- 
-* [The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter Excellent Graduate]{:.heading.flip-title}
-  
-## 2020
+* 横浜国立大学，令和3年度春学期，学業成績優秀表彰
+
+* [東京大学グローバル消費インテリジェンス寄附講座(GCI) 2020 Winter 優秀修了生]{:.heading.flip-title}
+
+## 2020年
 ----------------------------------------------------------------
-* Yokohama National University, Reiwa 2nd Year Spring Semester Excellent Academic Performance Award
-  
-## 2019
+* 横浜国立大学，令和2年度春学期，学業成績優秀表彰
+
+## 2019年
 ----------------------------------------------------------------
-* [High School Chemistry Grand Prix]{:.heading.flip-title}, [Tokai Branch Encouragement Award]{:.heading.flip-title}
+* [化学グランプリ]{:.heading.flip-title}, [日本化学会東海支部奨励賞]{:.heading.flip-title}
 
 
 [ROUTE(Research Opportunities for UndergraduaTEs)]: http://es-route.ynu.ac.jp/
-[The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter excellent graduate]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
+[東京大学グローバル消費インテリジェンス寄附講座(GCI) 2020 Winter 優秀修了生]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
   
-[High School Chemistry Grand Prix]: https://gp.csj.jp/ 
-[Tokai Branch Encouragement Award]: https://tokai.chemistry.or.jp/wp-content/uploads/2022/09/award_2020.pdf
+[化学グランプリ]: https://gp.csj.jp/ 
+[日本化学会東海支部奨励賞]: https://tokai.chemistry.or.jp/wp-content/uploads/2022/09/award_2020.pdf

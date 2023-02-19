@@ -25,21 +25,24 @@ permalink: /biography/
 
 {:.note}
 
-## Education
+## 学歴
 ----------------------------------------------------------------
-### Apr. 2020 - 
-* **Bachelor of Engineering Science at** [Yokohama National University]{:.heading.flip-title} 
+### 2020年4月 - 
+* [横浜国立大学]{:.heading.flip-title} [理工学部]{:.heading.flip-title}
 
-### Apr. 2017 - Mar. 2020
-* **Graduated from** [Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]{:.heading.flip-title} 
+### 2017年4月 - 2020年3月
+* [静岡県立清水東高校 理数科]{:.heading.flip-title}
 
-[Yokohama National University]: https://www.ynu.ac.jp/english/
+[横浜国立大学]: https://www.ynu.ac.jp/
 
-[Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]: http://www.edu.pref.shizuoka.jp/shimizuhigashi-h/home.nsf/IndexFormView?OpenView
+[理工学部]: https://www.es.ynu.ac.jp/
 
-## Scholarship
+[静岡県立清水東高校 理数科]: http://www.edu.pref.shizuoka.jp/shimizuhigashi-h/home.nsf/IndexFormView?OpenView
+
+
+## 奨学金
 ----------------------------------------------------------------
-### Apr. 2022 - Mar.2024
-* Public Interest Incorporated Foundation [Sadao Sato International Scholarship Foundation]{:.heading.flip-title} 
+### 2022年4月 - 2024年3月
+* 公益財団法人 [佐藤定雄国際奨学財団]{:.heading.flip-title} 
 
-[Sadao Sato International Scholarship Foundation]: https://sato-isf.or.jp/
+[佐藤定雄国際奨学財団]: https://sato-isf.or.jp/

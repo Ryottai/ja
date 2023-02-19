@@ -19,7 +19,7 @@ repository: Ryottai/Ryottai.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  "en"
+lang:                  "ja"
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Ryota Tai
@@ -31,7 +31,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: Junior in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
+tagline: <a href='https://www.ynu.ac.jp/'>横浜国立大学</a> <br> 理工学部 3年 <br>
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
