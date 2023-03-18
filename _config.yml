@@ -31,7 +31,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: <a href='https://www.ynu.ac.jp/'>横浜国立大学</a> <br> <a href='https://www.es.ynu.ac.jp/'>理工学部</a> 3年 <br>
+tagline: <a href='https://www.ynu.ac.jp/'>横浜国立大学</a> <br> <a href='https://www.es.ynu.ac.jp/'>理工学部</a> 4年 <br>
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
@@ -63,17 +63,19 @@ menu:
   #  url:               /example/
   # - title:             Documentation
   #  url:               /docs/
-  - title:             Biography 
+  - title:             略歴 
     url:               /biography/
   #- title:             Education
   #  url:               /education/ 
-  - title:             Activity
-    url:               /activity/
-  - title:             Skills
+  #- title:             Activity
+  #  url:               /activity/
+  - title:             研究
+    url:               /works/
+  - title:             技能
     url:               /skills/
-  - title:             Papers
-    url:               /papers/
-  - title:             Awards
+  #- title:             Papers
+  #  url:               /papers/
+  - title:             表彰
     url:               /awards/
   #- title:             Blog
   #  url:               /blog/
