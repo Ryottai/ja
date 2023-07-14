@@ -47,11 +47,11 @@ author:
   # Used by `jekyll-feed`:
   picture: https://avatars.githubusercontent.com/u/71510008?s=400&u=90b7660847711b64017e72a553d34d766eb37d0c&v=4
   name:                Ryota Tai
-  # email:               rmkr.t.2335.625@gmail.com
+  # email:
   social:
     twitter: https://twitter.com/vortex22D
     github: https://github.com/Ryottai
-    email: rmkr.t.2335.625@gmail.com
+    # email:
   
   
   # # Used by `jekyll-seo-tag`:
@@ -389,7 +389,7 @@ twitter:
 social:
   twitter: https://twitter.com/vortex22D
   github: https://github.com/Ryottai
-  email: rmkr.t.2335.625@gmail.com
+  # email:
 
 
 # Plugin Configs
